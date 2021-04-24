@@ -7,7 +7,7 @@ import datetime as d
 import os
 
 bot_token = os.environ['BOT_TOKEN']
-faunakey = os.environ['FAUNAKEY']
+
 
 
 def job(bot, faunahelper):
