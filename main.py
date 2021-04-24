@@ -5,7 +5,7 @@ from faunadb.errors import NotFound
 from lmshelper import LmsHelper
 import os
 
-bot_token = os.environ['1754496824:AAHj4gPYjCL34Ij5ECF8APQuyLj7th8C23U']
+bot_token = os.environ['BOT_TOKEN']
 faunakey = os.environ['FAUNAKEY']
 lmskey = os.environ['LMSKEY']
 
